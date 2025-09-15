@@ -1,4 +1,6 @@
-/*package excelRead;
+package excelRead;
+
+import java.io.FileInputStream;
 
 public class Excelcode {
 
@@ -28,4 +30,4 @@ public class Excelcode {
 		
 		}
 
-	}*/
+	}
